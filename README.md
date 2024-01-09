@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anubhav Kumar Gupta</h1>
-<h3 align="center">• A Final year Computer Science student. • A passionate frontend developer. • Proficient in Python. • Keen interest in all core CS subjects.</h3>
+<h3 align="center">• A Final year Computer Science student. • Proficient in Python. • Keen interest in all core CS subjects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavkumargupta&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavkumargupta" /> </p>
 
