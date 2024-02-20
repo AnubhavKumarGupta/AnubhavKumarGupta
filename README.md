@@ -1,10 +1,4 @@
 <h1 align="center">Hi 👋, I'm Anubhav Kumar Gupta</h1>
-<h2 align="center"> 👨‍💻 Who am I?</h2>
-<p align="center">
-  <samp>I am a Final year student at Smt Indira Gandhi clg of Engineering currently doing my Bachelors in Computer Engineering. 
-I am an open source Contributor and an web development addict.
-</samp><br>
-</p>
 <h3 align="center">A Final year Computer Science student. • Proficient in Python. • Keen interest in all core CS subjects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavkumargupta&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavkumargupta" /> </p>
