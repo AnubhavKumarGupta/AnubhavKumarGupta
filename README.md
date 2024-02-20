@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anubhav Kumar Gupta</h1>
 <h3 align="center">A Final year Computer Science student. • Proficient in Python. • Keen interest in all core CS subjects.</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavkumargupta&show_icons=true&locale=en&layout=compact" alt="anubhavkumargupta" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavkumargupta&show_icons=true&locale=en" alt="anubhavkumargupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavkumargupta&" alt="anubhavkumargupta" /></p>
 
