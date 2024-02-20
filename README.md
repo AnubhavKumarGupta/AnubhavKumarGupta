@@ -1,3 +1,11 @@
+<h1> <p align="center"> <b> Welcome! Happy to see you here! 😁 </p> </b> </h1>
+<!-- 
+<p align="center">
+  <img width="600" height="500" src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-reading.png">
+</p> -->
+
+## Hi, I'm Devika Varshney, a curious learner from India!
+
 <h1 align="center">Hi 👋, I'm Anubhav Kumar Gupta</h1>
 <h3 align="center">A Final year Computer Science student. • Proficient in Python. • Keen interest in all core CS subjects.</h3>
 
