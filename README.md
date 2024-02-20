@@ -16,11 +16,11 @@
   
 - 🔭 Keen interest in all core CS subjects.
 
-- 🌱 I’m currently learning **UI Technologies & building Projects**
+- 🌱 I’m currently learning **UI Technologies & building Projects.**
   
 - 🚀 I’m currently looking for a Job with a role of Front End Web Developer.
 
-- 💬 Ask me about **Python, HTML, CSS**
+- 💬 Ask me about **Python, HTML, CSS, JS**
 
 - 📫 How to reach me **gupta.anubhav2103@gmail.com**
 
