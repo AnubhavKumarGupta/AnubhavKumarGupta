@@ -10,8 +10,7 @@
 - 📫 How to reach me **gupta.anubhav2103@gmail.com**
 
 
-<h2 align="center">Let's be Friends<img src='https://www.bing.com/th/id/OGC.54e37d8074ebcde1d96c77d7b2a7f310?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f54%2fe3%2f7d%2f54e37d8074ebcde1d96c77d7b2a7f310.gif&ehk=PrEGdwL4PhD7Z%2fwJCNJ7ZoCNkliX6f%2bNR0nwPKvtck4%3d' width="70px"> </h2>
-<p align="center"> 
+<h2 align="center">Let's Connect
   
 <a href="https://linkedin.com/in/anubhav-kumar-gupta2109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhav-kumar-gupta2109" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anubhav2109" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anubhav2109" height="30" width="40" /></a>
