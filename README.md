@@ -44,6 +44,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavkumargupta&" alt="anubhavkumargupta" /></p>
 
-<br />
-![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br />
+## ⭐ Thanks for the visit!
