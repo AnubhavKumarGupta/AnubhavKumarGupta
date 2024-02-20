@@ -6,13 +6,18 @@
 
 ## Hi, I'm Anubhav Kumar Gupta, a curious learner from India!
 
-<h3 align="center">A Final year Computer Science student. • Proficient in Python. • Keen interest in all core CS subjects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavkumargupta&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavkumargupta" /> </p>
 
 <img align="right" height="300" width="400" alt="" src="https://github.com/AnubhavKumarGupta/AnubhavKumarGupta/blob/main/coder.gif" />
 
-- 🌱 I’m currently learning **Data Structure, Algorithms, UI Technologies**
+- 💻 I'm a Final year Computer Science student.
+  
+- 🔭 Keen interest in all core CS subjects.
+
+- 🌱 I’m currently learning **UI Technologies & building Projects**
+  
+- 🚀 I’m currently looking for a Job with a role of Front End Web Developer.
 
 - 💬 Ask me about **Python, HTML, CSS**
 
