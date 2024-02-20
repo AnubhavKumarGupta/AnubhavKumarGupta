@@ -51,10 +51,19 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavkumargupta&show_icons=true&locale=en&layout=compact" alt="anubhavkumargupta" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavkumargupta&show_icons=true&locale=en" alt="anubhavkumargupta" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavkumargupta&" alt="anubhavkumargupta" /></p>
+<p align="left">
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavkumargupta&theme=radical&hide_border=true&layout=compact" alt="anubhavkumargupta">
+</p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=anubhavkumargupta&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="anubhavkumargupta">
+</p>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavkumargupta&" alt="anubhavkumargupta" />
+</p>
+<br>
+</p>
 
 ## ⭐ Thanks for the visit!
