@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavkumargupta&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavkumargupta" /> </p>
 
+<img align="right" height="300" width="425" alt="" src="https://github.com/AnubhavKumarGupta/AnubhavKumarGupta/blob/main/coder.gif" />
+
 - 🌱 I’m currently learning **Data Structure, Algorithms, UI Technologies**
 
 - 💬 Ask me about **Python, HTML, CSS**
