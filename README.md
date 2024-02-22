@@ -66,4 +66,5 @@
 <br>
 </p>
 
-## ⭐ Thanks for the visit!
+
+<h1> <p align="center"> <b> ⭐ Thanks for the visit! </p> </b> </h1>
