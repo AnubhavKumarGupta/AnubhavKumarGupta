@@ -4,9 +4,8 @@
   <img width="600" height="500" src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-reading.png">
 </p> -->
 
-## Hi, I'm Anubhav Kumar Gupta, a curious learner from India!
 
-
+## Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Anubhav Kumar Gupta, a curious learner from India! 
 
 <img align="right" height="300" width="400" alt="" src="https://github.com/AnubhavKumarGupta/AnubhavKumarGupta/blob/main/coder.gif" />
 
