@@ -27,7 +27,7 @@
 
 
 
-## Let's Connect! 🤝
+## 🤝 Let's Connect! 
 
 <p align="left">
 <a href="https://linkedin.com/in/anubhav-kumar-gupta2109/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhav-kumar-gupta2109/" height="30" width="40" /></a>
@@ -38,14 +38,19 @@
 <a href="https://auth.geeksforgeeks.org/user/guptaanubhav2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="guptaanubhav2103" height="30" width="40" /></a>
 </p>
 
-### Front End Skills :
+## 
+
+### 🛠️ Front End Skills:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TAILWIND CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-<h3 align="left">Languages and Tools :</h3>
+
+## 
+
+<h3 align="left"> 🔧 Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -53,6 +58,11 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
+
+
+## 
+
+
 
 ## 📊 GitHub Stats
 
@@ -62,7 +72,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavkumargupta&theme=radical&hide_border=true&layout=compact" alt="anubhavkumargupta">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavkumargupta&show_icons=true&locale=en" alt="anubhavkumargupta" /></p>
+<p>&nbsp&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavkumargupta&show_icons=true&locale=en" alt="anubhavkumargupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavkumargupta&" alt="anubhavkumargupta" />
 
@@ -70,5 +80,7 @@
 
 
 ## ⭐ Thanks for the visit! 
+Feel free to explore my repositories and drop a ⭐ if you find something interesting! Let's learn and grow together.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavkumargupta&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavkumargupta" /> </p>
