@@ -1,4 +1,4 @@
-<h1> <p align="center"> <b> Welcome! Happy to see you here! 😁 </p> </b> </h1>
+<h1> <p align="center"> <b> Greetings! It's a pleasure to have you here! 😃 </p> </b> </h1>
 <!-- 
 <p align="center">
   <img width="600" height="500" src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-reading.png">
