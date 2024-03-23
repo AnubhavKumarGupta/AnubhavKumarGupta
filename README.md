@@ -16,11 +16,11 @@
   
 - 🔭 Love diving into all core CS subjects.
 
-- 🌱 Currently mastering **WEB Technologies & building Projects.**
+- 🌱 Currently mastering **Web Technologies & building Projects.**
   
 - 🚀 I’m currently looking for a Job with a role of Front End Web Developer.
 
-- 💬 Ask me about **Python, DATA STRUCTURE, HTML, CSS, TAILWIND CSS, JS**.
+- 💬 Ask me about **Python, Data Structure, HTML, CSS, TAILWIND CSS, JS**.
 
 - 📧 How to reach me **gupta.anubhav2103@gmail.com**.
 
