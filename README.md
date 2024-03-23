@@ -79,7 +79,8 @@
 ##
 
 
-## ⭐ Thanks for the visit! 
+## ⭐ Grateful for your visit!
+
 Feel free to explore my repositories and drop a ⭐ if you find something interesting! Let's learn and grow together.
 
 
