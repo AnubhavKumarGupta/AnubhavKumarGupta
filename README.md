@@ -5,25 +5,29 @@
 </p> -->
 
 
-## Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Anubhav Kumar Gupta, a curious learner from India! 
+## Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Anubhav Kumar Gupta, a passionate learner from India! 
 
 <img align="right" height="280" width="400" alt="" src="https://github.com/AnubhavKumarGupta/AnubhavKumarGupta/blob/main/coder.gif" />
 
 
 
-- 💻 I'm a Final year Computer Science student.
-  
-- 🔭 Keen interest in all core CS subjects.
 
-- 🌱 I’m currently learning **WEB Technologies & building Projects.**
+- 💻 Final year Computer Science student.
+  
+- 🔭 Love diving into all core CS subjects.
+
+- 🌱 Currently mastering **WEB Technologies & building Projects.**
   
 - 🚀 I’m currently looking for a Job with a role of Front End Web Developer.
 
-- 💬 Ask me about **Python, HTML, CSS, JS**
+- 💬 Ask me about **Python, DATA STRUCTURE, HTML, CSS, TAILWIND CSS, JS**.
 
-- 📫 How to reach me **gupta.anubhav2103@gmail.com**
+- 📫 How to reach me **gupta.anubhav2103@gmail.com**.
 
-## 📞 Connect with me
+
+
+
+## Let's Connect! 🤝
 
 <p align="left">
 <a href="https://linkedin.com/in/anubhav-kumar-gupta2109/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhav-kumar-gupta2109/" height="30" width="40" /></a>
