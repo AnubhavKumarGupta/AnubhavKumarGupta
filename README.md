@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Python, DATA STRUCTURE, HTML, CSS, TAILWIND CSS, JS**.
 
-- 📫 How to reach me **gupta.anubhav2103@gmail.com**.
+- 📧 How to reach me **gupta.anubhav2103@gmail.com**.
 
 
 ## 
