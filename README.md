@@ -20,7 +20,7 @@
   
 - 🚀 I’m currently looking for a Job with a role of Front End Web Developer.
 
-- 💬 Ask me about **Python, Data Structure, HTML, CSS, TAILWIND CSS, JS**.
+- 💬 Ask me about **Python, Data Structure, HTML, CSS, JS**.
 
 - 📧 How to reach me **gupta.anubhav2103@gmail.com**.
 
