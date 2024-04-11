@@ -12,7 +12,7 @@
 
 
 
-- 💻 Final year Computer Science student.
+- 🧑🏻‍💻 Final year Computer Science student.
   
 - 🔭 Love diving into all core CS subjects.
 
@@ -48,16 +48,15 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
-## 
+## 💻 Languages & Tools:
 
-<h3 align="left"> 🔧 Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-</p>
+![Python](https://img.shields.io/badge/%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![Java](https://img.shields.io/badge/☕%20Java-007396?style=for-the-badge&logo=java&logoColor=white&color=007396)
+![C](https://img.shields.io/badge/%20-00599C?style=for-the-badge&logo=C&logoColor=white&color=00599C)
+![SQL](https://img.shields.io/badge/%20SQL-003B57?style=for-the-badge&logo=sql&logoColor=white&color=003B57)
+![Git/GitHub](https://img.shields.io/badge/%20Git%20&%20GitHub-181717?style=for-the-badge&logo=git&logoColor=white&color=181717)
+
+
 
 
 ## 
@@ -79,9 +78,9 @@
 ##
 
 
-## ⭐ Grateful for your visit!
+## 🙌 Grateful for your visit!
 
-Feel free to explore my repositories and drop a ⭐ if you find something interesting! Let's learn and grow together.
+Feel free to explore my repositories and drop a 🌟 if you find something interesting! Let's learn and grow together.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavkumargupta&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavkumargupta" /> </p>
