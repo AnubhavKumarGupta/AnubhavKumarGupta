@@ -79,11 +79,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavkumargupta&theme=radical&hide_border=true&layout=compact" alt="anubhavkumargupta">
-</p>
+
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavkumargupta&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="anubhavkumargupta" / </p>
+
 
 <p>&nbsp&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavkumargupta&show_icons=true&locale=en" alt="anubhavkumargupta" /></p>
 
