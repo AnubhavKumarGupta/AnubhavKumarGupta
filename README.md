@@ -28,6 +28,7 @@
 - 📧 How to reach me **gupta.anubhav2103@gmail.com**.
 
 
+
 ## 
 
 
@@ -37,6 +38,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/anubhav-kumar-gupta2109/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhav-kumar-gupta2109/" height="30" width="40" /></a>
 <a href="https://instagram.com/anubhav_kumar_gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anubhav_kumar_gupta" height="30" width="40" /></a>
+
 
 
 ## 
@@ -52,11 +54,11 @@
 </p>
 
 
+
 ## 
 
 
 ### 🛠️ Front End Skills:
-
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -69,9 +71,7 @@
 ##
 
 
-
 ### 💻 Languages & Tools:
-
 
 
 ![Python](https://img.shields.io/badge/%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
@@ -81,7 +81,6 @@
 ![Git/GitHub](https://img.shields.io/badge/%20Git%20&%20GitHub-181717?style=for-the-badge&logo=git&logoColor=white&color=181717)
 
  
-
 
 ## 
 
@@ -97,7 +96,8 @@
 
 
 
-
+## 
+##
 
 ## 🙌 Grateful for your visit!
 
