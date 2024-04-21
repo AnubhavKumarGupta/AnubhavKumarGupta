@@ -1,5 +1,9 @@
 <h1> <p align="center"> <b> Greetings! It's a pleasure to have you here! 😃 </p> </b> </h1>
 
+<!-- <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+;Computer+Science+Student;Problem+Solver;Always+learning+new+things;Life+Long+Learner;"></a>
+</p> -->
+
 <!-- 
 <p align="center">
   <img width="600" height="500" src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-reading.png">
@@ -8,7 +12,6 @@
 
 
 ## Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Anubhav Kumar Gupta, a passionate learner from India! 
-
 
 
 <img align="right" height="250" width="400" alt="" src="https://github.com/AnubhavKumarGupta/AnubhavKumarGupta/blob/main/coder.gif" />
