@@ -35,7 +35,8 @@
 ## 
 
 
-### 🤝 Let's Connect! 
+### 🌐 Socials:
+ 
 
 
 <p align="left">
