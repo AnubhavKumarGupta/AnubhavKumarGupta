@@ -32,11 +32,9 @@
 
 
 
-## 
-
+##
 
 ### 🌐 Socials:
- 
 
 
 <p align="left">
@@ -99,6 +97,16 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavkumargupta&theme=dark&border_radius=5.5)](https://git.io/streak-stats)" alt="anubhavkumargupta" /></p>
 
 
+##
+
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AnubhavKumarGupta&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
+
+##
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 ##
