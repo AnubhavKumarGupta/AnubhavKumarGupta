@@ -67,26 +67,13 @@
 </p>
 
 
-
+## 
 
 
 ### 📊 Some Fun Stats:
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=anubhavkumargupta&show_icons=true&locale=en&layout=compact&theme=highcontrast) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anubhavkumargupta&show_icons=true&theme=highcontrast) |
 | --- | --- |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anubhavkumargupta&theme=dark&border_radius=5.5) | 😍 Total Views on Profile:<br><br> ![Visitor Count](https://profile-counter.glitch.me/anubhavkumargupta/count.svg) |
-
-
-## 
-
-
-
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavkumargupta&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="anubhavkumargupta" / </p>
-
-##
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavkumargupta&show_icons=true&theme=highcontrast" alt="anubhavkumargupta" /></p>
-
-##
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavkumargupta&theme=dark&border_radius=5.5)](https://git.io/streak-stats)" alt="anubhavkumargupta" /></p>
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anubhavkumargupta&theme=dark&border_radius=5.5) | 
 
 
 ##
@@ -108,4 +95,4 @@
 Feel free to explore my repositories and drop a 🌟 if you find something interesting! Let's learn and grow together.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavkumargupta&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavkumargupta" /> </p>
+
