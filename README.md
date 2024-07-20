@@ -42,6 +42,17 @@
 <a href="https://instagram.com/anubhav_kumar_gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anubhav_kumar_gupta" height="30" width="40" /></a>
 
 
+##
+
+### 🍁 My Skill stack :
+
+|               |           |
+|       ---     |    ---    |
+| `Web-Dev`     | ![HTML5](https://img.shields.io/badge/-HTML5-CC2400?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-E24800?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-FE7601?style=for-the-badge&logo=javascript) ![Bootstrap](https://img.shields.io/badge/bootstrap-FE9A00?style=for-the-badge&logo=bootstrap&logoColor=white) ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| `Languages`   | ![Python](https://img.shields.io/badge/-Python-1F65AC?style=for-the-badge&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-034D9A?style=for-the-badge&logo=java) ![C](https://img.shields.io/badge/-C-034D9A?style=for-the-badge&logo=c) ![SQL](https://img.shields.io/badge/-SQL-307BBD?style=for-the-badge&logo=sql&logoColor=white)
+| `Tools`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-5391FE?style=for-the-badge&logo=GitHub&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-31A8FF?style=for-the-badge&logo=PyCharm&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-034D9A?style=for-the-badge&logo=Anaconda&logoColor=white)  |
+
+
 
 ## 
 
