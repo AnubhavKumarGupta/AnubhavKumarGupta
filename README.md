@@ -44,13 +44,13 @@
 
 ##
 
-### 🍁 My Skill stack :
+### 💻 My Skill stack :
 
 |               |           |
 |       ---     |    ---    |
-| `Web-Dev`     | ![HTML5](https://img.shields.io/badge/-HTML5-CC2400?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-E24800?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-FE7601?style=for-the-badge&logo=javascript) ![Bootstrap](https://img.shields.io/badge/bootstrap-FE9A00?style=for-the-badge&logo=bootstrap&logoColor=white) ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| `Languages`   | ![Python](https://img.shields.io/badge/-Python-1F65AC?style=for-the-badge&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-034D9A?style=for-the-badge&logo=java) ![C](https://img.shields.io/badge/-C-034D9A?style=for-the-badge&logo=c) ![SQL](https://img.shields.io/badge/-SQL-307BBD?style=for-the-badge&logo=sql&logoColor=white)
-| `Tools`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-5391FE?style=for-the-badge&logo=GitHub&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-31A8FF?style=for-the-badge&logo=PyCharm&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-034D9A?style=for-the-badge&logo=Anaconda&logoColor=white)  |
+| `Web-Dev`     | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| `Languages`   | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java) ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c) ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=sql&logoColor=white) |
+| `Tools`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white) |
 
 
 
@@ -66,34 +66,6 @@
 <a href="https://codeforces.com/profile/anubhav2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anubhav2103" height="30" width="40" /></a>
 </p>
 
-
-
-## 
-
-
-### 🛠️ Front End Skills:
-
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TAILWIND CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-
-
-##
-
-
-### 💻 Languages & Tools:
-
-
-![Python](https://img.shields.io/badge/%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![Java](https://img.shields.io/badge/☕%20Java-007396?style=for-the-badge&logo=java&logoColor=white&color=007396)
-![C](https://img.shields.io/badge/%20-00599C?style=for-the-badge&logo=C&logoColor=white&color=00599C)
-![SQL](https://img.shields.io/badge/%20SQL-003B57?style=for-the-badge&logo=sql&logoColor=white&color=003B57)
-![Git/GitHub](https://img.shields.io/badge/%20Git%20&%20GitHub-181717?style=for-the-badge&logo=git&logoColor=white&color=181717)
-
- 
 
 ## 
 
