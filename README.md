@@ -34,12 +34,12 @@
 
 ##
 
-### 🌐 Socials:
+### 🌐 Social Media Profiles
 
-
-<p align="left">
-<a href="https://linkedin.com/in/anubhav-kumar-gupta2109/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhav-kumar-gupta2109/" height="30" width="40" /></a>
-<a href="https://instagram.com/anubhav_kumar_gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anubhav_kumar_gupta" height="30" width="40" /></a>
+| Platform     | Badge                                                                                                                                               |
+|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/anubhav-kumar-gupta2109/) |
+| **Instagram**| [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anubhav_kumar_gupta)    |
 
 
 ##
@@ -56,15 +56,15 @@
 
 ## 
 
-### 💻 Coding Platform:
 
+### 💻 Coding Platform
 
-<p>
-<a href="https://www.hackerrank.com/gupta_anubhav211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gupta_anubhav211" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/2103anubhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="2103anubhav" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/guptaanubhav2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="guptaanubhav2103" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/anubhav2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anubhav2103" height="30" width="40" /></a>
-</p>
+| Platform        | Badge                                                                                                          |
+|-----------------|----------------------------------------------------------------------------------------------------------------|
+| **HackerRank**  | [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gupta_anubhav211) |
+| **LeetCode**    | [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/2103anubhav)        |
+| **GeeksforGeeks** | [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-00C7B7?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/guptaanubhav2103) |
+| **Codeforces**  | [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/anubhav2103)   |
 
 
 ## 
@@ -74,18 +74,6 @@
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=anubhavkumargupta&show_icons=true&locale=en&layout=compact&theme=highcontrast) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anubhavkumargupta&show_icons=true&theme=highcontrast) |
 | --- | --- |
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anubhavkumargupta&theme=dark&border_radius=5.5) | 
-
-
-##
-
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnubhavKumarGupta&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-
-##
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 ##
