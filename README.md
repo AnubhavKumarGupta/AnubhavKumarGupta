@@ -70,7 +70,8 @@
 ### 📊 Some Fun Stats:
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=anubhavkumargupta&show_icons=true&locale=en&layout=compact&theme=highcontrast) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anubhavkumargupta&show_icons=true&theme=highcontrast) |
 | --- | --- |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anubhavkumargupta&theme=dark&border_radius=5.5) | 
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anubhavkumargupta&theme=dark&border_radius=5.5) | ![Profile Views](https://komarev.com/ghpvc/?username=AnubhavKumarGupta&style=flat-square)
+
 
 
 ##
