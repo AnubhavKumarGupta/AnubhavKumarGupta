@@ -1,4 +1,4 @@
-<h1> <p align="center"> <b> Greetings! It's a pleasure to have you here! 😃 </p> </b> </h1>
+<h1> <p align="center"> <b> Greetings! It's a pleasure to have you here! 😃 </p>  </h1>
 
 
 <!--  
@@ -10,7 +10,11 @@
 
 ## Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Anubhav Kumar Gupta, a passionate learner from India! 
 
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
+  
 <img align="right" height="250" width="400" alt="" src="https://github.com/AnubhavKumarGupta/AnubhavKumarGupta/blob/main/coder.gif" />
 
 
@@ -28,8 +32,9 @@
 - 📧 How to reach me **gupta.anubhav2103@gmail.com**.
 
 
-
-##
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ### 🌐 Social Media Profiles
 
@@ -39,7 +44,9 @@
 | **Instagram**| [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anubhav_kumar_gupta)    |
 
 
-##
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ### 💻 My Skill stack :
 
@@ -51,7 +58,9 @@
 
 
 
-## 
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 
 ### 💻 Coding Platform
@@ -64,7 +73,9 @@
 | **Codeforces**  | [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/anubhav2103)   |
 
 
-## 
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 
 ### 📊 Some Fun Stats:
@@ -74,7 +85,9 @@
 
 
 
-##
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## 🙌 Grateful for your visit!
 
