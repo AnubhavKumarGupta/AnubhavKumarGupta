@@ -1,6 +1,7 @@
 <h1> <p align="center"> <b> Greetings! It's a pleasure to have you here! 😃 </p>  </h1>
 
 
+
 <!--  
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+;Computer+Science+Student;Problem+Solver;Always+learning+new+things;Life+Long+Learner;"></a>
@@ -8,18 +9,20 @@
 
 
 
-## Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Anubhav Kumar Gupta, a passionate learner from India! 
+### Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Anubhav Kumar Gupta, a passionate learner from India! 
 
 <p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
+
 
   
 <img align="right" height="250" width="400" alt="" src="https://github.com/AnubhavKumarGupta/AnubhavKumarGupta/blob/main/coder.gif" />
 
+🙋‍♂️ About Me
 
 
-- 🧑🏻‍💻 Final year Computer Science student.
+- 🧑🏻‍💻 Completed my B.Tech journey at Techno International New Town.
   
 - 🔭 Love diving into all core CS subjects.
 
