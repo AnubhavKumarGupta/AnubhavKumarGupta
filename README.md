@@ -9,7 +9,7 @@
 
 
 
-### Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Anubhav Kumar Gupta, a passionate learner from India! 
+### Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Anubhav Kumar Gupta, a Data Engineer from India! 
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -21,18 +21,11 @@
 
 🙋‍♂️ About Me
 
-
-- 🧑🏻‍💻 Completed my B.Tech journey at Techno International New Town.
-  
-- 🔭 Love diving into all core CS subjects.
-
-- 🌱 Currently mastering **Front-End Technologies & building Projects.**
-  
-- 🚀 I’m currently looking for a Job with a role of Front End Web Developer.
-
-- 💬 Ask me about **Python, Data Structure, HTML, CSS, JS**.
-
-- 📧 How to reach me **gupta.anubhav2103@gmail.com**.
+- 🚀 Currently working as a Data Engineer at Infometry Inc.
+- 🔍 Passionate about Data Engineering, Backend Development, and Data Processing.
+- 🌱 Exploring Big Data Technologies, SQL, Python, and Cloud Platforms.
+- 💬 Ask me about Python, SQL, Data Engineering, DSA, and Backend Development.
+- 📧 Reach me at gupta.anubhav2103@gmail.com.
 
 
 <p align="left">
