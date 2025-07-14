@@ -22,9 +22,9 @@
 🙋‍♂️ About Me
 
 - 🚀 Currently working as a Data Engineer at Infometry Inc.
-- 🔍 Passionate about Data Engineering, Backend Development, and Data Processing.
-- 🌱 Exploring Big Data Technologies, SQL, Python, and Cloud Platforms.
-- 💬 Ask me about Python, SQL, Data Engineering, DSA, and Backend Development.
+- 🔍 Passionate about Data Engineering tools [Databricks, ADF, Synapse].
+- 🌱 Exploring Big Data Technologies [Apache Spark (PySpark)] and Azure Cloud Services.
+- 💬 Ask me about Python, SQL, Data Engineering, DSA.
 - 📧 Reach me at gupta.anubhav2103@gmail.com.
 
 
