@@ -21,12 +21,12 @@
 
 🙋‍♂️ About Me
 
-💼 Data Engineer at Infometry Inc.
-🔧 Working with modern Data Engineering tools: Databricks, Azure Data Factory (ADF), Azure Synapse Analytics.
-☁️ Exploring Big Data technologies like Apache Spark (PySpark) and Azure Cloud Services.
-🐍 Strong grip on Python, SQL, and Data Structures & Algorithms.
-💬 Always happy to discuss anything related to Data Engineering.
-📬 Reach me at: gupta.anubhav2103@gmail.com
+- 💼 Data Engineer at Infometry Inc.
+- 🔧 Working with modern Data Engineering tools: Databricks, Azure Data Factory (ADF), Azure Synapse Analytics.
+- ☁️ Exploring Big Data technologies like Apache Spark (PySpark) and Azure Cloud Services.
+- 🐍 Strong grip on Python, SQL, and Data Structures & Algorithms.
+- 💬 Always happy to discuss anything related to Data Engineering.
+- 📬 Reach me at: gupta.anubhav2103@gmail.com
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
