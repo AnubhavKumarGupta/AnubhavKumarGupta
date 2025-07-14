@@ -22,6 +22,7 @@
 🙋‍♂️ About Me
 
 - 💼 Data Engineer at Infometry Inc.
+  
 - 🔧 Working with modern Data Engineering tools: Databricks, Azure Data Factory (ADF), Azure Synapse Analytics.
 - ☁️ Exploring Big Data technologies like Apache Spark (PySpark) and Azure Cloud Services.
 - 🐍 Strong grip on Python, SQL, and Data Structures & Algorithms.
